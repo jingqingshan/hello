@@ -17,5 +17,6 @@ public class hello {
 
         System.out.println("我爱你我的祖国，一刻也不能分割");
         System.out.println("hehei0123");
+        System.out.println("HEH");
     }
 }
