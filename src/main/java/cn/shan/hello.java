@@ -14,5 +14,7 @@ public class hello {
         System.out.println(
                 "helloworld,HLPE"
         );
+
+        System.out.println("我爱你我的祖国，一刻也不能分割");
     }
 }
